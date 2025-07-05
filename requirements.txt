@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+ollama
+sentence-transformers
+faiss-cpu
+PyMuPDF
+OCRmyPDF
+python-docx
+requests
+beautifulsoup4
